@@ -1,0 +1,23 @@
+{
+  "name": "web-exercises-javascript-es-modules",
+  "version": "1.0.0",
+  "description": "### Syntax",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite 1-es-modules-syntax",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neuefische/web-exercises-javascript-es-modules.git"
+  },
+  "author": "neuefische GmbH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neuefische/web-exercises-javascript-es-modules/issues"
+  },
+  "homepage": "https://github.com/neuefische/web-exercises-javascript-es-modules#readme",
+  "devDependencies": {
+    "vite": "^2.2.1"
+  }
+}
