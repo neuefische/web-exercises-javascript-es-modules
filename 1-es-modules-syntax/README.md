@@ -2,7 +2,7 @@
 
 Your goal is to refactor (re-organize the code without changing functionality) the file `main.js`.
 
-Inside this file we have some functions defined: `sum`, `substract`, `divide` and `multiply`
+Inside this file we have some functions defined: `sum`, `subtract`, `divide` and `multiply`.
 
 1. Move the functions to the file `lib/math.js`
 2. Export the functions from that file:
